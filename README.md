@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Frontend**
 
-- 👨‍💻 All of my projects are available at [https://mynul56.github.io/mynulportfolio/](https://mynul-digital-canvas.lovable.app/)
+- 👨‍💻 All of my projects are available at [https://mynul56.github.io/mynulportfolio/]https://mynul56.github.io/mynulportfolio/)
 
 - 💬 Ask me about **react, vue and gsap**
 
