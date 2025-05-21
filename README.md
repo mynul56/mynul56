@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👯 I’m looking to collaborate on **Cloud native Projects**
+- 👯 I’m a Flutter developer
 
 - 🤝 I’m looking for help with **Frontend**
 
