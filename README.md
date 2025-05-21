@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with **Frontend**
 
-- 👨‍💻 All of my projects are available at (https://mynul56.github.io/mynulportfolio/)
+- 👨‍💻 All of my projects are available at [https://mynul56.github.io/mynulportfolio/](https://mynul56.github.io/mynulportfolio/)
 
 - 💬 Ask me about **react, vue and gsap**
 
 - 📫 How to reach me **mynulislamtanim@gmail.com**
 
-- 📄 Know about my experiences [https://mynul56.github.io/mynulportfolio/](https://mynul56.github.io/mynulportfolio/)
+- 📄 Know about my experiences [https://mynul56.github.io/mynulportfolio/](https://mynul-digital-canvas.lovable.app/)
 
 - ⚡ Fun fact **I am also a video editor specialized on making reels video**
 
