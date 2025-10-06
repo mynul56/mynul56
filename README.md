@@ -39,11 +39,13 @@ I am a dedicated software developer with strong expertise in **frontend and mobi
 ---
 
 ### 🚀 Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| **Smart Home UI** | Flutter-based smart home dashboard UI | [Live](https://mynul58-djoc.vercel.app/) |
-| **Portfolio Website** | Personal portfolio showcasing projects & skills | [Live](https://mynul58-djoc.vercel.app/) |
-| **E-commerce App** | Fullstack web app with React, Node.js & Firebase | [Repo](https://github.com/mynul56) |
+| Project | Description | Live Demo / Video | GitHub Repository |
+|---------|-------------|-----------------|-----------------|
+| **PEPTIDE PAL** | Mobile Application (Flutter) | [LinkedIn Demo](https://www.linkedin.com) | [GitHub](https://github.com/mynul56/peptide) |
+| **LOOME** | Web Application (React.js / Node.js) | [Live Website](https://loome-orpin.vercel.app/) | [GitHub](https://github.com/mynul56/Loome) |
+| **BANGALI** | Mobile Application (Flutter) | [LinkedIn Demo](https://www.linkedin.com) | [GitHub](https://github.com/mynul56/bangali) |
+| **DEVNESTLY** | Web Platform (React.js / Node.js) | [LinkedIn Demo](https://www.linkedin.com) | [GitHub](https://github.com/mynul56/DevNestly) |
+| **PERSONAL PORTFOLIO** | Web Development (HTML / CSS / JavaScript) | [Live Website](https://mynul58-djoc.vercel.app/) | [GitHub](https://github.com/mynul56) |
 
 ---
 
