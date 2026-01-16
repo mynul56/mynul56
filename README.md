@@ -165,14 +165,6 @@ class Developer {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mynul56&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -197,7 +189,5 @@ class Developer {
 ### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 **⭐ If you like my work, consider giving a star to my repositories!**
-
-![Snake animation](https://github.com/mynul56/mynul56/blob/output/github-contribution-grid-snake.svg)
 
 </div>
