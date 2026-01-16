@@ -189,18 +189,6 @@ class Developer {
 💬 **Ask me about:** Flutter, React, Firebase, or anything related to mobile/web development  
 ⚡ **Fun fact:** I love turning coffee into code and ideas into reality!
 
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mynul56.github.io/mynulportfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mynul56)
-
-</div>
 
 ---
 
