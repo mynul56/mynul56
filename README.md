@@ -24,8 +24,8 @@ class Developer {
   
   Map<String, List<String>> skills = {
     "mobile": ["Flutter", "Dart", "Firebase", "RESTful APIs"],
-    "frontend": ["React", "Next.js", "Tailwind CSS", "JavaScript"],
-    "backend": ["Node.js", "Express.js", "MongoDB", "MySQL"],
+    "frontend": ["React", "Tailwind CSS", "JavaScript"],
+    "backend": ["Node.js", "MongoDB", "MySQL"],
     "ai_ml": ["Python", "TensorFlow", "scikit-learn", "NLP"],
   };
   
