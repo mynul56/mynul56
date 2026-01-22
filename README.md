@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mynul56&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/mynul56)
 [![GitHub Followers](https://img.shields.io/github/followers/mynul56?label=Followers&style=flat&color=blue)](https://github.com/mynul56?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn]([https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mynulislam56/))
 
 </div>
 
