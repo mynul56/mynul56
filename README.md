@@ -83,7 +83,6 @@ class Developer {
       <h3 align="center">PEPTIDE PAL 🏥</h3>
       <div align="center">
         <a href="https://github.com/mynul56/peptide" target="_blank">
-          <img src="https://via.placeholder.com/400x200/02569B/FFFFFF?text=Health+Companion+App" width="100%" alt="Peptide Pal"/>
         </a>
         <p>
           <strong>Flutter • Firebase • Health Tech</strong><br>
@@ -98,7 +97,6 @@ class Developer {
       <h3 align="center">BANGALI 🇧🇩</h3>
       <div align="center">
         <a href="https://github.com/mynul56/bangali" target="_blank">
-          <img src="https://via.placeholder.com/400x200/0175C2/FFFFFF?text=Bangla+Learning+App" width="100%" alt="Bangali"/>
         </a>
         <p>
           <strong>Flutter • Education • Culture</strong><br>
@@ -115,7 +113,6 @@ class Developer {
       <h3 align="center">LOOME 🌐</h3>
       <div align="center">
         <a href="https://loome-orpin.vercel.app/" target="_blank">
-          <img src="https://via.placeholder.com/400x200/20232A/61DAFB?text=Modern+Web+Platform" width="100%" alt="Loome"/>
         </a>
         <p>
           <strong>React • Node.js • Full Stack</strong><br>
@@ -133,7 +130,6 @@ class Developer {
       <h3 align="center">DevNestly 👨‍💻</h3>
       <div align="center">
         <a href="https://github.com/mynul56/DevNestly" target="_blank">
-          <img src="https://via.placeholder.com/400x200/000000/FFFFFF?text=Developer+Community" width="100%" alt="DevNestly"/>
         </a>
         <p>
           <strong>React • Node.js • Community</strong><br>
